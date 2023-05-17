@@ -12,11 +12,14 @@
 ```{warning}
 This library is under development.
 ```
+For further info, check out {doc}`usage`.
 
-
+For instalation check out {ref}`Instalation`.
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
+
+usage
 ```
 
 # Indices and tables
