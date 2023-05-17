@@ -3,7 +3,16 @@
 % You can adapt this file completely to your liking, but it should at least
 % contain the root `toctree` directive.
 
-# Welcome to test's documentation!
+# Test's documentation!
+
+```{include} ../../README.md
+:realtive-images:
+```
+
+```{warning}
+This library is under development.
+```
+
 
 ```{toctree}
 :caption: 'Contents:'
